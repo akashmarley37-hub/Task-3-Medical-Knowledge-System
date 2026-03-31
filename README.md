@@ -15,4 +15,5 @@ This module transforms the assistant into a specialized **Medical Expert System*
 3. **Retrieval-Augmented Generation (RAG):** Implemented a pipeline to ensure responses are grounded in verified medical literature to prevent AI hallucinations.
 
 ## 📊 Result Screenshot
-(result task 3.png)
+![Task 3 Result] result task 3.png
+
